@@ -1,0 +1,5 @@
+outs:
+- md5: 56fb6ccb7c0c343e77708b27c79ce1ef
+  size: 5341868833
+  hash: md5
+  path: yelp_academic_dataset_review.json

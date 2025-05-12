@@ -1,0 +1,4 @@
+[core]
+    remote = foodiedata
+['remote "foodiedata"']
+    url = s3://llm-finetune-data-dsagar/foodiedata

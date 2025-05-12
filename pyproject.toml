@@ -39,4 +39,5 @@ dependencies = [
     "jq==1.8.0",
     "rapidfuzz==3.13.0",
     "ragas==0.2.10",
+    "dvc==3.59.2",
 ]
