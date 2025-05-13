@@ -1,10 +1,7 @@
 /review_subset_denormalized_100000.json
 /review_subset_text_100000.json
 /yelp_academic_dataset_business.json
-/yelp_academic_dataset_checkin.json
 /yelp_academic_dataset_review.json
-/yelp_academic_dataset_tip.json
-/yelp_academic_dataset_user.json
 /review_text.jsonl
 /review_subset_text_100000.hf
 /review_text.hf
