@@ -12,7 +12,7 @@ This is a educational project made as a part of *AI Engineering Bootcamp* from [
 4. Install dependencies by running `uv sync`
 5. Run the app by running the command `uv run chainlit run app.py`
 6. This repository manages data using [DVC](https://dvc.org/doc). It should be installed as part of dependencies. However, if not, please follow [installation instructions](https://dvc.org/doc/install)
-7. In order to get the data files, **you must run dvc pull after cloning the repository**.
+7. In order to get the data files, **you must run `dvc pull` after cloning the repository**.
 
 
 ## Task 1: The Problem
